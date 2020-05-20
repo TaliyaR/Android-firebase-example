@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FirebaseExample</string>
+    <string name="congrats_text">Congratulatins!</string>
+    <string name="sign_out_button">SIGN OUT</string>
+    <string name="error_email">Enter email address!</string>
+    <string name="error_pass">Enter password!</string>
+    <string name="error_pass_length">Password too short, enter minimum 6 characters!</string>
+    <string name="error_signin">Sign In Error</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="register">register</string>
+    <string name="btn_forgot_password">Forgot your password?</string>
+    <string name="btn_login">Login</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+</resources>
+
